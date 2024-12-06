@@ -21,7 +21,7 @@
 
 ###
 
-<h1 align="center">Patricio Zapata | Jr Data Engineer 💻</h1>
+<h1 align="center">Patricio Zapata | Data Engineer 💻</h1>
 
 ###
 
@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">Soy Patricio Zapata de Chile<br>🔭 Ultimo trabajo de Analista Financiero en ITAU.<br>📚 Aprendo sobre Data Science, enfocado en Machine Learning e IA.<br>⚡ En mi tiempo libre me gusta el ciclismo, correr y jugar ajedrez.</p>
+<p align="left">Soy Patricio Zapata de Chile<br>🔭 Ultimo trabajo de Data enginner sermaluc.<br>📚 enfoque auto didacta  en AWS y coding 
 
 ###
 
