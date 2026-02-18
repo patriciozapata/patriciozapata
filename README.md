@@ -9,9 +9,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.credly.com/users/patricio-zapata.42a26c40" target="_blank">
-    <img src="https://www.svgrepo.com/show/331358/credly.svg" height="100" alt="Credly logo" />
-  </a>
+
   <a href="https://www.credly.com/badges/28b5a6a1-7549-4c52-b12d-7788470b963c" target="_blank">
     <img src="https://images.credly.com/size/680x680/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" height="100" alt="AWS Cloud Practitioner badge" />
   </a>
